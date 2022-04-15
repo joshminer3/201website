@@ -1,0 +1,82 @@
+/* Joshua Miner, 4/15 */
+header
+{
+    color: rgb(14, 14, 14);
+    font-size: larger;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    background-color: bisque;
+    opacity: 85%;
+}
+a
+{
+    text-decoration: none;
+    /* color: rgb(14, 14, 14); */
+    color: #2c2e30;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p
+{
+    text-align: center;
+    font-size: larger;
+    font-weight: 300;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    flex-basis: 100%;
+    flex-grow: 1;
+    text-decoration: none;
+    list-style: none;
+}
+h1
+{
+    text-align: center;
+    margin-top: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h2
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fcf8e3;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+}
+h3
+{
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fcf8e3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 200;
+}
+body
+{
+    background-image: url("../assets/img/trees.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+footer
+{
+    color: rgb(14, 14, 14);
+    font-size: small;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: bisque;
+    opacity: 85%;   
+}
+li
+{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
